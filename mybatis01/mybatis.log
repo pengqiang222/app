@@ -1,0 +1,141 @@
+2016-12-08 10:12:20 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 10:12:21 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:12:21 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:12:21 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:12:21 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:12:52 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 10:12:53 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:12:53 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:12:53 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:12:53 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:12:53 JdbcTransaction.java DEBUG Opening JDBC Connection
+2016-12-08 10:12:53 PooledDataSource.java DEBUG Created connection 25288738.
+2016-12-08 10:12:53 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@181e022]
+2016-12-08 10:12:53 BaseJdbcLogger.java DEBUG ==>  Preparing: select DEPTNO,DNAME,LOC from DEPT where DEPTNO=? 
+2016-12-08 10:12:54 BaseJdbcLogger.java DEBUG ==> Parameters: 10(Integer)
+2016-12-08 10:12:54 BaseJdbcLogger.java DEBUG <==      Total: 1
+2016-12-08 10:12:54 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@181e022]
+2016-12-08 10:12:54 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@181e022]
+2016-12-08 10:12:54 PooledDataSource.java DEBUG Returned connection 25288738 to pool.
+2016-12-08 10:20:40 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 10:20:41 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:20:41 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:20:41 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:20:41 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:20:41 JdbcTransaction.java DEBUG Opening JDBC Connection
+2016-12-08 10:20:41 PooledDataSource.java DEBUG Created connection 25288738.
+2016-12-08 10:20:41 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@181e022]
+2016-12-08 10:20:41 BaseJdbcLogger.java DEBUG ==>  Preparing: select DEPTNO,DNAME,LOC from DEPT where DEPTNO=? 
+2016-12-08 10:20:41 BaseJdbcLogger.java DEBUG ==> Parameters: 10(Integer)
+2016-12-08 10:20:41 BaseJdbcLogger.java DEBUG <==      Total: 1
+2016-12-08 10:20:41 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@181e022]
+2016-12-08 10:20:41 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@181e022]
+2016-12-08 10:20:41 PooledDataSource.java DEBUG Returned connection 25288738 to pool.
+2016-12-08 10:42:53 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 10:42:53 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:42:53 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:42:53 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:42:53 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:42:53 JdbcTransaction.java DEBUG Opening JDBC Connection
+2016-12-08 10:42:54 PooledDataSource.java DEBUG Created connection 28224929.
+2016-12-08 10:42:54 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1aeada1]
+2016-12-08 10:42:54 BaseJdbcLogger.java DEBUG ==>  Preparing: select DEPTNO,DNAME,LOC from DEPT 
+2016-12-08 10:42:54 BaseJdbcLogger.java DEBUG ==> Parameters: 
+2016-12-08 10:42:54 BaseJdbcLogger.java DEBUG <==      Total: 5
+2016-12-08 10:42:54 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1aeada1]
+2016-12-08 10:42:54 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1aeada1]
+2016-12-08 10:42:54 PooledDataSource.java DEBUG Returned connection 28224929 to pool.
+2016-12-08 10:46:50 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 10:46:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:46:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:46:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:46:50 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 10:46:50 JdbcTransaction.java DEBUG Opening JDBC Connection
+2016-12-08 10:46:51 PooledDataSource.java DEBUG Created connection 28224929.
+2016-12-08 10:46:51 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1aeada1]
+2016-12-08 10:46:51 BaseJdbcLogger.java DEBUG ==>  Preparing: select DEPTNO,DNAME,LOC from DEPT 
+2016-12-08 10:46:51 BaseJdbcLogger.java DEBUG ==> Parameters: 
+2016-12-08 10:46:51 BaseJdbcLogger.java DEBUG <==      Total: 5
+2016-12-08 10:46:51 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1aeada1]
+2016-12-08 10:46:51 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1aeada1]
+2016-12-08 10:46:51 PooledDataSource.java DEBUG Returned connection 28224929 to pool.
+2016-12-08 11:00:40 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 11:00:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:00:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:00:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:00:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:02:41 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 11:02:42 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:02:42 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:02:42 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:02:42 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:04:44 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 11:04:44 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:04:44 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:04:44 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:04:44 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:04:45 JdbcTransaction.java DEBUG Opening JDBC Connection
+2016-12-08 11:04:45 PooledDataSource.java DEBUG Created connection 7842689.
+2016-12-08 11:04:45 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:04:45 BaseJdbcLogger.java DEBUG ==>  Preparing: insert into DEPT(DEPTNO,DNAME,LOC) values(?,?,?) 
+2016-12-08 11:04:45 BaseJdbcLogger.java DEBUG ==> Parameters: 90(Integer), 销售部(String), 株洲(String)
+2016-12-08 11:04:45 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2016-12-08 11:04:45 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:04:45 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:04:45 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:04:45 PooledDataSource.java DEBUG Returned connection 7842689 to pool.
+2016-12-08 11:16:13 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 11:16:13 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:16:13 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:16:13 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:16:13 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:16:30 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 11:16:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:16:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:16:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:16:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:17:18 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 11:17:19 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:17:19 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:17:19 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:17:19 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:17:19 JdbcTransaction.java DEBUG Opening JDBC Connection
+2016-12-08 11:17:19 PooledDataSource.java DEBUG Created connection 7842689.
+2016-12-08 11:17:19 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:17:19 BaseJdbcLogger.java DEBUG ==>  Preparing: update DEPT set DNAME = ?,LOC = ? where DEPTNO =? 
+2016-12-08 11:17:19 BaseJdbcLogger.java DEBUG ==> Parameters: 销售部(String), 株洲2(String), 90(Integer)
+2016-12-08 11:17:19 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2016-12-08 11:17:19 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:17:19 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:17:19 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:17:19 PooledDataSource.java DEBUG Returned connection 7842689 to pool.
+2016-12-08 11:24:00 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 11:24:01 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:24:01 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:24:01 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:24:01 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:24:01 JdbcTransaction.java DEBUG Opening JDBC Connection
+2016-12-08 11:24:01 PooledDataSource.java DEBUG Created connection 7842689.
+2016-12-08 11:24:01 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:24:01 BaseJdbcLogger.java DEBUG ==>  Preparing: delete DEPT where DEPTNO = ? 
+2016-12-08 11:24:02 BaseJdbcLogger.java DEBUG ==> Parameters: 90(Integer)
+2016-12-08 11:24:02 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2016-12-08 11:24:02 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:24:02 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:24:02 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:24:02 PooledDataSource.java DEBUG Returned connection 7842689 to pool.
+2016-12-08 11:42:18 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2016-12-08 11:42:19 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:42:19 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:42:19 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:42:19 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2016-12-08 11:42:19 JdbcTransaction.java DEBUG Opening JDBC Connection
+2016-12-08 11:42:19 PooledDataSource.java DEBUG Created connection 7842689.
+2016-12-08 11:42:19 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:42:19 BaseJdbcLogger.java DEBUG ==>  Preparing: delete DEPT where DEPTNO = ? 
+2016-12-08 11:42:19 BaseJdbcLogger.java DEBUG ==> Parameters: 50(Integer)
+2016-12-08 11:42:19 BaseJdbcLogger.java DEBUG <==    Updates: 1
+2016-12-08 11:42:19 JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:42:19 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:42:19 JdbcTransaction.java DEBUG Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@77ab81]
+2016-12-08 11:42:19 PooledDataSource.java DEBUG Returned connection 7842689 to pool.
