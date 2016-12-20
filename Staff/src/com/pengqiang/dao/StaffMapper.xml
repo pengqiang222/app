@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.pengqiang.dao.StaffMapper">
+
+	<resultMap type="com.pengqiang.pojo.Staff" id="staff-result">
+		<result property="ename" column="ENAME" />
+		<result property="job" column="JOB" />
+		<result property="dname" column="DNAME" />
+		<result property="loc" column="LOC" />
+		<result property="sal" column="SAL" />
+	</resultMap>
+	<select id="find" resultMap="staff-result">
+	  select ename,job,dname,loc,sal from (select row_number() over(order by SAL desc) rn,e.*,d.* from EMP e,DEPT d where  e.deptno =d.deptno)
+	  <include refid="pageSQLFoot"/>
+	</select>
+	
+	<sql id="pageSQLFoot">
+    <![CDATA[ where rn > #{pageno} and rn <= #{pagesize}]]>
+	</sql>
+	
+	<select id="findTotal" resultType="int">
+		select count(empno) from EMP 
+		
+	</select>
+</mapper>  
